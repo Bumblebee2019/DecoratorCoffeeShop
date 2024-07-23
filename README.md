@@ -9,7 +9,7 @@ Here is a UML diagram for my coffee shop:
 ![](Diagrams/DecoratorPatternUML.drawio)
 
 The user is first greeted with the menu:
-
+![](Diagrams/Pic1.png)
 
 The user is promted to customize his or her drink: 
 
