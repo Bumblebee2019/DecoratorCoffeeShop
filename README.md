@@ -12,5 +12,6 @@ The user is first greeted with the menu:
 ![](Diagrams/Pic1.png)
 
 The user is promted to customize his or her drink: 
+![](Diagrams/Pic2.png)
 
 
